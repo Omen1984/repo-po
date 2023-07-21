@@ -1,5 +1,5 @@
 # Kafka Dead Letter Publishing
-https://blog.jdriven.com/2022/01/kafka-dead-letter-publishing/
+Оригинал: https://blog.jdriven.com/2022/01/kafka-dead-letter-publishing/
 
 Дата публикации: 18 января 2022 года  
 Автор: Tim te Beek  
